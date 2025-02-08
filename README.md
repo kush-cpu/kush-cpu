@@ -1,11 +1,11 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Kushh! 👋
 
 🚀 **Machine Learning | Artificial Intelligence | Data Science**  
 💡 Passionate about building intelligent systems and solving real-world problems with AI.  
 🎯 Focused on Synthetic Data Generation, Deep Learning, and AI-driven Solutions.  
 
 ### 🚀 About Me
-- 🔬 **Founder of SyntheAI** – A synthetic data generation platform empowering businesses with high-quality data.
+- 🔬 **Founder of SynthAI** – A synthetic data generation platform empowering businesses with high-quality data.
 - 🤖 **AI/ML Engineer** – Skilled in building and optimizing AI models for predictive analytics and decision-making.
 - 📊 **Data Enthusiast** – Love exploring and analyzing data to derive meaningful insights.
 - 🎮 **Ex-Game Developer** – Technical Artist turned AI Engineer with experience in graphics programming and computer vision.
