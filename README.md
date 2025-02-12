@@ -34,6 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushagra-nigam-a322a6162/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://www.producthunt.com/@kushhh_)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/ironicallykushh)
+[![Streamlit Page](https://img.shields.io/badge/Streamlit%20Page-orange?logo=streamlit)](https://share.streamlit.io/user/kush-cpu)
 
 ---
 ⭐ **Feel free to check out my repos and contributions!**  
