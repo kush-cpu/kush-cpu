@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kushh  
 
-## 🚀 Machine Learning | Artificial Intelligence | Data Science  
+## 🚀 Machine Learning | Artificial Intelligence | Product Management 
 💡 Passionate about building intelligent systems and solving real-world problems with AI.  
 🎯 Focused on **Synthetic Data Generation**, **Deep Learning**, and **AI-driven Solutions**.  
 
