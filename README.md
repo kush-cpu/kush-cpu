@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 TL;DR: Why You Should Care
+## Why You Should Care
 
 - 🛠️ **Systems Thinker** – Obsessed with memory models, multithreading, cache optimization, and low-overhead design.
 - 🎮 **Game Engine Internals** – Deep understanding of **rendering pipelines**, **graphics APIs (DirectX/Vulkan/OpenGL)**, **scene graphs**, and **real-time compute.**
@@ -55,24 +55,16 @@
 
 ## 🧩 Projects That Hit Different
 
-### 🎮 **🧠 EngineX** – My Custom 3D Game Engine  
-> Built with C++, Vulkan, ECS, and multithreaded renderer.  
-- Real-time PBR pipeline with BRDF approximations  
-- Integrated in-engine performance profiler & hot-reload shaders  
+### 🎮 **🧠 EngineX** – Custom WebGL Based Game Engine 
+> This is a simple physics engine written in C++ using Glad, GLFW, OpenGl3 and Dear ImGui. 
 - Built material editor and GPU memory visualizer  
-- 🚀 _Think Unity HDRP but lean and modder-friendly_
 
 ### 📊 **SynthAI** – Generative Synthetic Data Engine  
-> MVP for a full-stack MLops infra using synthetic + real hybrid datasets.  
-- Prompt → Data → Model → API in a single click.  
-- Web interface using Streamlit + backend orchestration in Python  
-- Focused on verticals like agriculture, medical imaging, CV for ADAS  
+> A toon shader that looks like the one used for characters in The Legend of Zelda: The Wind Waker. The main code is taken from the ideas presented in [this video](https://www.youtube.com/watch?v=mnxs6CR6Zrk). 
 
-### 📷 **VisionForge** – Computer Vision Toolkit for Unity  
-> Packaged CV scripts for depth sensing, segmentation, and object detection.  
-- Used in AR/VR workflows with Unity HDRP  
-- Integrated OpenCV + Unity shader stack  
-- Built for fast prototyping in indie XR development  
+### Foxxy 
+> A 3D reference project and tech demo for the Bevy Engine 
+- Built using Rust & Bevy 
 
 ---
 
