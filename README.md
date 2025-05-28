@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Kushh – Systems Programmer | Engine Architect | AI Strategist</h1>
+<h1 align="center">🚀 Kushh – Systems Programmer | Engine Architect | ML Engineer</h1>
 <p align="center">
   <b>From Bits to Brains – Building Engines, Architecting Intelligence</b><br>
   <i>Specializing in low-level compute, real-time graphics, and scalable AI tooling.</i>
