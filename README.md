@@ -56,13 +56,15 @@
 ## 🧩 Projects That Hit Different
 
 ### 🎮 **🧠 EngineX** – Custom WebGL Based Game Engine 
+[check it out here](https://github.com/kush-cpu/physical-engine-webgl-main).
 > This is a simple physics engine written in C++ using Glad, GLFW, OpenGl3 and Dear ImGui. 
 - Built material editor and GPU memory visualizer  
 
-### 📊 **SynthAI** – Generative Synthetic Data Engine  
+### 📊 **Wind Waker Shader** WGSL Rust
 > A toon shader that looks like the one used for characters in The Legend of Zelda: The Wind Waker. The main code is taken from the ideas presented in [this video](https://www.youtube.com/watch?v=mnxs6CR6Zrk). 
 
 ### Foxxy 
+[Check it out](https://github.com/kush-cpu/rusty-fox)
 > A 3D reference project and tech demo for the Bevy Engine 
 - Built using Rust & Bevy 
 
