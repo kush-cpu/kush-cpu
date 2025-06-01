@@ -5,12 +5,14 @@ Systems Programmer | Game Engine Architect | ML Engineer
 --------------------------------------------------------
 
 From Bits to Brains – Building Engines, Architecting Intelligence Specializing in low-level compute, real-time graphics, and scalable AI tooling. 
-Why You Should Care 
-🛠️ Systems Thinker – Obsessed with memory models, multithreading, cache optimization, and low-overhead design. 
-🎮 Game Engine Internals – Deep understanding of rendering pipelines, graphics APIs (DirectX/Vulkan/OpenGL), scene graphs, and real-time compute. 
-🧵 C++ Aficionado – Built modular, ECS-driven engines, tools for shaders, rendering optimization, and profiling stacks. 
-🧬 Founder @ SynthAI – Building an AI-powered no-code data infra layer for synthetic data & automated ML pipelines. 
-🧩 Bridging AI & Engines – Researching neural rendering, synthetic vision datasets, and in-engine ML model deployment.
+
+## Why You Should Care 
+
+*🛠️ Systems Thinker – Obsessed with memory models, multithreading, cache optimization, and low-overhead design. 
+*🎮 Game Engine Internals – Deep understanding of rendering pipelines, graphics APIs (DirectX/Vulkan/OpenGL), scene graphs, and real-time compute. 
+*🧵 C++ Aficionado – Built modular, ECS-driven engines, tools for shaders, rendering optimization, and profiling stacks. 
+*🧬 Founder @ SynthAI – Building an AI-powered no-code data infra layer for synthetic data & automated ML pipelines. 
+*🧩 Bridging AI & Engines – Researching neural rendering, synthetic vision datasets, and in-engine ML model deployment.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kushagranigam550@gmail.com](mailto:kushagranigam550@gmail.com)
