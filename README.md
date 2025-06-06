@@ -21,6 +21,14 @@ From Bits to Brains – Building Engines, Architecting Intelligence Specializing
 <a href="https://www.github.com/kush-cpu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kush-cpu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/kush-cpu/physical-engine-webgl-main" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=physical-engine-webgl-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kush-cpu/bevy_wind_waker_shader" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=bevy_wind_waker_shader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/kush-cpu/rusty-fox" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=rusty-fox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kush-cpu/rusty" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=rusty&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 ### Skills
 
 
@@ -44,14 +52,6 @@ src="https://img.shields.io/github/followers/kush-cpu?logo=github&style=for-the-
 <a href="http://www.github.com/kush-cpu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kush-cpu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kush-cpu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush-cpu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kush-cpu/physical-engine-webgl-main" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=physical-engine-webgl-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kush-cpu/bevy_wind_waker_shader" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=bevy_wind_waker_shader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/kush-cpu/rusty-fox" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=rusty-fox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kush-cpu/rusty" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-cpu&repo=rusty&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
