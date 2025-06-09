@@ -16,7 +16,6 @@ From Bits to Brains – Building Engines, Architecting Intelligence Specializing
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kushagranigam550@gmail.com](mailto:kushagranigam550@gmail.com)
-* 🧠  I'm learning Rust
 
 <a href="https://www.github.com/kush-cpu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kush-cpu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
