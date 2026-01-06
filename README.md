@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kush
 ============================================================================================================================
 
-Systems Programmer | Game Engine Architect | ML Engineer
+Full Stack Engineer | AI Product Engineer
 --------------------------------------------------------
 
 From Bits to Brains – Building Engines, Architecting Intelligence Specializing in low-level compute, real-time graphics, and scalable AI tooling. 
