@@ -9,7 +9,7 @@
   📍 New Delhi, India (Open to Remote – US/EU)  
   📧 kushagranigam550@gmail.com  
   <a href="https://github.com/kush-cpu">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/kushagra-nigam">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kushagra-nigam-cspo%C2%AE-a322a6162/">LinkedIn</a>
 </p>
 
 ---
